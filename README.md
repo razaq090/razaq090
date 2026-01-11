@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdulrazaq!
 
-Pursuing BS in Information Technology (7 semester) | 📊 Data Science Enthusiast | 🧠 AI-Pashto Researcher  
+Pursuing BS in Information Technology (7 semester) | 📊 Data Science Enthusiast | 🧠 AI-Big Data
 💻 Python | Web Scraping | Machine Learning | Git & GitHub
 
 ---
